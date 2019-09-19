@@ -1,0 +1,5 @@
+cache = C:\Users\28264088\Documents\NodeJSPortable\cache
+globalconfig = C:\Users\28264088\Documents\NodeJSPortable\app\etc\npmrc
+globalignorefile = C:\Users\28264088\Documents\NodeJSPortable\app\etc\.npmignore
+init-module = C:\Users\28264088\Documents\NodeJSPortable\app\etc\.npm-init.js
+userconfig = C:\Users\28264088\Documents\NodeJSPortable\app\etc\npmrc
